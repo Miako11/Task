@@ -15,9 +15,9 @@ for (let i = 5; i < 35; i = i + 4) {
 console.log("Task3-----------");
 
 
-namravli=1
+namravli = 1
 for (let index = 3; index < 8; index++) {
-    namravli=index*namravli;
+    namravli = index * namravli;
     console.log(namravli);
 
 }
