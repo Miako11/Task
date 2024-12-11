@@ -84,6 +84,4 @@ console.log(qulebisjami(student.scores));
 console.log("____________\nTask8")
 
 console.log("saxeli: ", student.firstName, ",", "asaki: ", student.age);
-//7. Დაწერეთ ფუნქცია რომელსაც გადასცემთ
-//სტუდენტის ქულებს ( scores) და ფუნქცია დააბრუნებს  ქულების ჯამს
-//8. დაბეჭდეთ სტუდენტის სახელი და ასაკი
+
